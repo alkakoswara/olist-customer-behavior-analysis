@@ -66,6 +66,7 @@ Dashboard interaktif Power BI (`olist_dashboard_v2.pbix`) berisi:
 - Kartu KPI: total pelanggan, pelanggan repeat, persen repeat, median jeda
 
 Tabel `pelanggan_rfm` terhubung ke tabel bridge kategori dengan filter dua arah. Pilihan pada satu visual memfilter atau menyorot visual lain; kartu KPI mengikuti pilihan aktif (kartu tidak memfilter visual lain).
+![Pratinjau dashboard Power BI: kelompok pelanggan, jeda pembelian, kategori pesanan kedua, dan segmen RFM](docs/Dashboard.jpeg)
 
 ## Rekomendasi bisnis (usulan)
 
